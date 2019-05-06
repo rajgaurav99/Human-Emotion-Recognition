@@ -14,4 +14,6 @@ Latest  _mini_XCEPTION file would have the largest value among the other files. 
 # Run the Emotion Detector:
 1. Run Single.py for single face detection or Multiple for multiple face detection.
 
+View Prject Report more details.
+
 # Note: You need to have some specific libraries installed on your system for Python else the program won't work. If you don't have the libraries installed, install them first before doing anything. The libraries name can be found in the code files with import syntax.
